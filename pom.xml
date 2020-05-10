@@ -22,11 +22,11 @@
 
 	<dependencies>
 
-<!--  commented for IBM cloud deployment
+<!--  commented for IBM cloud deployment-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-sleuth-zipkin</artifactId>
-		</dependency>-->
+		</dependency>
 		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
